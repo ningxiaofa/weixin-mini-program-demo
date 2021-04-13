@@ -1,0 +1,7 @@
+<!--pages/welcome/welcome.wxml-->
+<image src="/images/avatar/1.jpg" class="avatar"></image>
+
+<text>Hello, 四月</text>
+
+<button>开启小程序之旅</button>
+
